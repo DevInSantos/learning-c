@@ -7,6 +7,11 @@ Grupo de estudos do DevInSantos para (re)aprender C!
 * Reaprender como se usa arrays e ponteiros (pronto, demorou 2h)
 * Entender algoritmos explicados por matemáticos (pronto, demorou 1h)
 
+# Executar
+```bash
+  make && ./bubble_sort
+```
+
 # Tutoriais
 
 # Exercícios
